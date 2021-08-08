@@ -20,7 +20,7 @@ Looking at our results in a pie chart shows us all the same results in a format 
 ![Pie chart total drivers](analysis/Fig7.png)
 
 By comparing the average fare per rides between each city type, rural cities have highest average fare per ride than suburban and urban by around four dollars and 10 dollars, respectively. For the column of average fare per driver, rural cities also perform well than suburban and urban cities by 40% and 230%. The reason is that the rides and drivers count of rural cities, significantly lower than urban and suburban cities. It leads to average values greater than urban and suburban.
-![Fare by city type line chart](analysis/PyBer_fare_summary.png)
+![Fare by city type line chart](analysis/Pyber_fare_summary.png)
 
 ## Business Recommendations
 - We should hire more drivers in suburban and rural areas. This would bring the ride price down in those areas, which can lead to more people using the service.
