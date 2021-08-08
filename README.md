@@ -5,24 +5,22 @@ The purpose of this analysis is to analyze the ride sharing data of our ride ser
 ## Results
 
 
-![Scatter Chart](/Analysis/Fig1.png)
+![Scatter Chart](/analysis/Fig1.png)
 
 
-![Box and Whisker ride count](Analysis/Fig2.png)
+![Box and Whisker ride count](analysis/Fig2.png)
 
 
-![Box and whisker ride fare](Analysis/Fig3.png)
+![Box and whisker ride fare](analysis/Fig3.png)
 
-![Box and whisker driver count](Analysis/Fig4.png)
 
 
 Looking at our results in a pie chart shows us all the same results in a format that is a lot faster to look at. From the results, we can see that urban areas have the majority of fares collected, rides completed, and drivers working with the service.
-![Pie chart total fares](Analysis/Fig5.png)
-![Pie chart total rides](Analysis/Fig6.png)
-![Pie chart total drivers](Analysis/Fig7.png)
+![Pie chart total fares](analysis/Fig5.png)
+![Pie chart total drivers](analysis/Fig7.png)
 
 By comparing the average fare per rides between each city type, rural cities have highest average fare per ride than suburban and urban by around four dollars and 10 dollars, respectively. For the column of average fare per driver, rural cities also perform well than suburban and urban cities by 40% and 230%. The reason is that the rides and drivers count of rural cities, significantly lower than urban and suburban cities. It leads to average values greater than urban and suburban.
-![Fare by city type line chart](Analysis/PyBer_Fare_Summary.png)
+![Fare by city type line chart](analysis/PyBer_fare_summary.png)
 
 ## Business Recommendations
 - We should hire more drivers in suburban and rural areas. This would bring the ride price down in those areas, which can lead to more people using the service.
